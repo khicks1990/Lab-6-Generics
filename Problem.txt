@@ -1,0 +1,1 @@
+In Lab 1 of Chapter 16 you wrote an ObjectBinarySearcher class. Modify the search method so it is a generic method. The method should use generic notation to accept an array of any objects that implement the Comparable interface. Demonstrate the class in an application.
